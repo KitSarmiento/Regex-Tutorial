@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Regex Tutorial: Matching an Email Address
 
-Introductory paragraph (replace this with your text)
+In this tutorial, we'll be exploring regular expressions, also known as regex. They are a powerful tool that can be used to define search patterns in strings, and as a web developer, it's essential to understand them. We'll be breaking down the components of regex so that you can gain a deep understanding of how they work.
 
 ## Summary
 
